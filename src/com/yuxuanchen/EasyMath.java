@@ -6,6 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
+
 /**
  * EasyMath class.
  * The goal of this project is to help primary school kids or younger
